@@ -1,0 +1,18 @@
+*TOOL MULTI BRUTEFORCE INSTAGRAM (masal)*
+*TOOL INI SEPERTI TOOL MBF FB PIRMANSX*
+
+$ apt update && apt upgrade -y
+
+$ pkg install git && apt install jq -y
+
+$ pkg install bash
+
+$ pkg install curl
+
+$ pkg install python2
+
+$ git clone https://github.com/novalattasya/instahack
+
+$ cd instahack
+
+$ bash ig.sh
